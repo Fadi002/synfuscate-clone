@@ -8,4 +8,5 @@ Hi <strong>vesperlol</strong> well i just made a clone of your project lol dont 
 [ ] The first wall<br>
 [ ] Backdoor script
 <br>
-<p>im not gonna update this project so if you want to update it do it by yourself lol</p>
+<p>I know its bad clone but who cares lol</p><br>
+<p>Im not gonna update this project so if you want to update it do it by yourself lol</p>
