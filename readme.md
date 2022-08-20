@@ -9,4 +9,4 @@ Hi <strong>vesperlol</strong> well i just made a clone of your project lol dont 
 [ ] Backdoor script
 <br>
 <p>I know its bad clone but who cares lol</p><br>
-<p>Im not gonna update this project so if you want to update it do it by yourself lol</p>
+<p>Im not gonna update this project so if you want to update it do it by yourself lol </p>
